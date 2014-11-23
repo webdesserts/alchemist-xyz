@@ -1,17 +1,25 @@
 {
   "name": "alchemist-xyz",
   "version": "0.1.0",
-  "description": "the XYZ color-space plugin for Alchemist.js",
+  "description": "the official XYZ color-space plugin for Alchemist.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webdesserts/alchemist-xyz"
   },
   "keywords": [
     "xyz",
     "color",
     "color-space",
-    "alchemist"
+    "alchemist-plugin"
   ],
   "author": "Michael C. Mullins",
   "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/webdesserts/alchemist-xyz/issues"
+  },
+  "homepage": "https://github.com/webdesserts/alchemist-xyz"
 }
