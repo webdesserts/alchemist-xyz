@@ -1,0 +1,17 @@
+{
+  "name": "alchemist-xyz",
+  "version": "0.1.0",
+  "description": "the XYZ color-space plugin for Alchemist.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xyz",
+    "color",
+    "color-space",
+    "alchemist"
+  ],
+  "author": "Michael C. Mullins",
+  "license": "MIT"
+}
