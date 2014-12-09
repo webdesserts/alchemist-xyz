@@ -21,7 +21,7 @@ By default alchemist-xyz is included in alchemist-common and consequently also
 included in the bundled version of alchemist.js.
 
 ```js
-  var alchemist = require('alchemist-js').create()
+  var alchemist = require('alchemist-js')
   alchemist.use(alchemist.common())
   var color = alchemize.xyz(10,75,80)
 ```
@@ -29,7 +29,7 @@ included in the bundled version of alchemist.js.
 If you are not using alchemist.common you can instead use this library directly
 
 ```js
-  var alchemist = require('alchemist-js').create()
+  var alchemist = require('alchemist-js')
   var xyz = require('alchemist-xyz')
   alchemist.use(xyz())
 ```
