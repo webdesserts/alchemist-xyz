@@ -1,4 +1,4 @@
-module.exports = function xyz () {
+export default function xyz () {
   return {
     name: 'xyz',
     to: {}
